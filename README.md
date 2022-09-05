@@ -1,16 +1,9 @@
-# 🚧 README em construção 🚧
+# Stranger Things API
 
-<!-- Olá, Tryber!
+Deploy do site para pegar personagens de Stranger Things.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Tecnologias utilizadas
+- Heroku
 
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+## Site
+[API](https://git.heroku.com/deborafantinif-ft.git)
